@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculoSalarioLiquido</string>
+    <string name="title">Cálculo do Imposto de Renda</string>
+    <string name="salario">Salário</string>
+    <string name="calcula">Calcula</string>
+    <string name="salario_liquido">Salário Líquido: R$ %s</string>
+    <string name="imposto">Imposto: %s</string>
+</resources>
